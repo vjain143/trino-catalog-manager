@@ -1,0 +1,8 @@
+/Users/vivek/Lab/GitHub/trino-catalog-manager/src/main/java/com/example/gitservice/model/OnboardingInput.java
+/Users/vivek/Lab/GitHub/trino-catalog-manager/src/main/java/com/example/gitservice/service/GitService.java
+/Users/vivek/Lab/GitHub/trino-catalog-manager/src/main/java/com/example/gitservice/exception/GlobalExceptionHandler.java
+/Users/vivek/Lab/GitHub/trino-catalog-manager/src/main/java/com/example/gitservice/config/SecurityConfig.java
+/Users/vivek/Lab/GitHub/trino-catalog-manager/src/main/java/com/example/gitservice/exception/GitOperationException.java
+/Users/vivek/Lab/GitHub/trino-catalog-manager/src/main/java/com/example/gitservice/controller/GitController.java
+/Users/vivek/Lab/GitHub/trino-catalog-manager/src/main/java/com/example/gitservice/exception/FileProcessingException.java
+/Users/vivek/Lab/GitHub/trino-catalog-manager/src/main/java/com/example/gitservice/GitServiceApplication.java

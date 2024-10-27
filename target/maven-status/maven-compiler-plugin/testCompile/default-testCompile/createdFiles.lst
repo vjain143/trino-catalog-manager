@@ -1,0 +1,4 @@
+com/example/gitservice/controller/GitControllerTest.class
+com/example/gitservice/service/GitServiceTest.class
+com/example/gitservice/config/SecurityConfigTest.class
+com/example/gitservice/service/GitServiceTest$1.class
